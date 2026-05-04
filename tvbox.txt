@@ -1,0 +1,10 @@
+//收集于网络，免费分享，仅供测试交流！
+{"storeHouse": [
+{"sourceName":"摸鱼单仓","sourceUrl":"http://我不是.摸鱼儿.com"},
+{"sourceName":"乐播单仓","sourceUrl":"https://gist.githubusercontent.com/zzlinlang/0cd81fd0a55ae912f89f1a2fa297fabc/raw/76d609aff2b57e67dc2d3aa3776612c4f2d2dbbf/zlinlang.json"},
+{"sourceName":"匿名单仓","sourceUrl":"https://12586.kstore.space/123.txt"},
+{"sourceName":"小米单仓","sourceUrl":"https://mpanso.me/DEMO.json"},
+{"sourceName":"欧歌单仓","sourceUrl":"https://xn--anna-wn6lw489o.v.nxog.top/nxog/oua.php"},
+{"sourceName":"肥猫单仓","sourceUrl":"http://肥猫.com"},
+{"sourceName":"饭太硬单仓","sourceUrl":"http://www.饭太硬.com/tv"},
+{"sourceName":"王小二单仓","sourceUrl":"http://tvbox.xn--4kq62z5rby2qupq9ub.top"}]}
