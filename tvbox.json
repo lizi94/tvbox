@@ -1,12 +1,8 @@
 {
-  "description": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！接口由第三方维护，随时可能失效，请自行甄别。本文件 20 条线路均于 2026-10-26 本机实测通过（配置 JSON + 站点数 + spider.jar 三层校验）。",
+  "description": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！接口由第三方维护，随时可能失效，请自行甄别。本文件 19 条线路均于 2026-10-26 本机实测通过（配置 JSON + 站点数 + spider.jar 三层校验），按延迟升序排列。",
   "urls": [
     {
-      "name": "老刘备单仓",
-      "url": "https://raw.liucn.cc/box/m.json"
-    },
-    {
-      "name": "凯速网盘单仓",
+      "name": "凯速单仓",
       "url": "https://6800.kstore.vip/fish.json"
     },
     {
@@ -14,7 +10,7 @@
       "url": "https://9763.kstore.vip/aowu.json"
     },
     {
-      "name": "短剧频道单仓",
+      "name": "短剧单仓",
       "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
     },
     {
@@ -22,23 +18,23 @@
       "url": "https://9280.kstore.vip/newwex.json"
     },
     {
-      "name": "奇奇戏曲单仓",
+      "name": "戏曲单仓",
       "url": "http://z.qiqiv.cn/666"
-    },
-    {
-      "name": "小虎斑单仓",
-      "url": "http://hb.小虎斑.site:25252/仅供测试"
     },
     {
       "name": "dxawi单仓",
       "url": "https://dxawi.github.io/0/0.json"
     },
     {
+      "name": "小虎斑单仓",
+      "url": "http://hb.小虎斑.site:25252/仅供测试"
+    },
+    {
       "name": "王二小单仓",
       "url": "http://tvbox.王二小放牛娃.top"
     },
     {
-      "name": "少儿频道单仓",
+      "name": "少儿单仓",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json"
     },
     {
@@ -46,11 +42,11 @@
       "url": "http://宝盒接口.top"
     },
     {
-      "name": "无名备份单仓",
+      "name": "无名单仓",
       "url": "https://pastebin.com/raw/gtbKvnE1"
     },
     {
-      "name": "健康家用单仓",
+      "name": "健康单仓",
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
     },
     {
