@@ -1,88 +1,84 @@
 {
-  "description": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！接口由第三方维护，随时可能失效，请自行甄别。本文件 21 条线路均于 2026-10-26 本机实测通过（配置 JSON + 站点数 + spider.jar 三层校验）。",
+  "description": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！接口由第三方维护，随时可能失效，请自行甄别。本文件 20 条线路均于 2026-10-26 本机实测通过（配置 JSON + 站点数 + spider.jar 三层校验）。",
   "urls": [
     {
-      "name": "老刘备",
+      "name": "老刘备单仓",
       "url": "https://raw.liucn.cc/box/m.json"
     },
     {
-      "name": "凯速网盘",
+      "name": "凯速网盘单仓",
       "url": "https://6800.kstore.vip/fish.json"
     },
     {
-      "name": "嗷呜",
+      "name": "嗷呜单仓",
       "url": "https://9763.kstore.vip/aowu.json"
     },
     {
-      "name": "短剧频道",
+      "name": "短剧频道单仓",
       "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
     },
     {
-      "name": "王二小网盘",
+      "name": "王二小网盘单仓",
       "url": "https://9280.kstore.vip/newwex.json"
     },
     {
-      "name": "奇奇戏曲",
+      "name": "奇奇戏曲单仓",
       "url": "http://z.qiqiv.cn/666"
     },
     {
-      "name": "小马",
-      "url": "https://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "小虎斑",
+      "name": "小虎斑单仓",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },
     {
-      "name": "dxawi",
+      "name": "dxawi单仓",
       "url": "https://dxawi.github.io/0/0.json"
     },
     {
-      "name": "王二小",
+      "name": "王二小单仓",
       "url": "http://tvbox.王二小放牛娃.top"
     },
     {
-      "name": "少儿频道",
+      "name": "少儿频道单仓",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json"
     },
     {
-      "name": "宝盒",
+      "name": "宝盒单仓",
       "url": "http://宝盒接口.top"
     },
     {
-      "name": "无名备份",
+      "name": "无名备份单仓",
       "url": "https://pastebin.com/raw/gtbKvnE1"
     },
     {
-      "name": "健康家用",
+      "name": "健康家用单仓",
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
     },
     {
-      "name": "肥猫",
+      "name": "肥猫单仓",
       "url": "http://肥猫.net/tv"
     },
     {
-      "name": "南风",
+      "name": "南风单仓",
       "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
     },
     {
-      "name": "小米",
+      "name": "小米单仓",
       "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },
     {
-      "name": "菜妮丝",
+      "name": "菜妮丝单仓",
       "url": "https://tv.菜妮丝.top"
     },
     {
-      "name": "小盒子",
+      "name": "小盒子单仓",
       "url": "http://xhztv.top/xhz"
     },
     {
-      "name": "乐播",
+      "name": "乐播单仓",
       "url": "https://gist.githubusercontent.com/zzlinlang/0cd81fd0a55ae912f89f1a2fa297fabc/raw/76d609aff2b57e67dc2d3aa3776612c4f2d2dbbf/zlinlang.json"
     },
     {
-      "name": "摸鱼",
+      "name": "摸鱼单仓",
       "url": "http://我不是.摸鱼儿.cc"
     }
   ]
