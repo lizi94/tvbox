@@ -1,6 +1,10 @@
 {
-  "description": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！接口由第三方维护，随时可能失效，请自行甄别。本文件 8 条线路均于 2026-11-12 本机实测通过（配置 JSON + 站点数 + spider.jar 三层校验），按延迟升序排列。",
+  "description": "收集于网络，免费分享，仅供测试交流，禁止内置售卖！接口由第三方维护，随时可能失效，请自行甄别。本文件 16 条线路均于 2026-11-13 本机实测通过（配置 JSON + 站点数 + spider.jar 三层校验），按延迟升序排列。",
   "urls": [
+    {
+      "name": "东篱单仓",
+      "url": "https://16151.kstore.space"
+    },
     {
       "name": "嗷呜单仓",
       "url": "https://9763.kstore.vip/aowu.json"
@@ -14,8 +18,36 @@
       "url": "https://6800.kstore.vip/fish.json"
     },
     {
+      "name": "网络单仓",
+      "url": "https://8815.kstore.vip/tvbox/wmz"
+    },
+    {
       "name": "二月红单仓",
       "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
+    },
+    {
+      "name": "PG单仓",
+      "url": "https://www.252035.xyz/p/jsm.json"
+    },
+    {
+      "name": "戏曲单仓",
+      "url": "http://z.qiqiv.cn/666"
+    },
+    {
+      "name": "真心单仓",
+      "url": "https://www.252035.xyz/z/FongMi.json"
+    },
+    {
+      "name": "小马单仓",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "老刘备单仓",
+      "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "name": "小盒子单仓",
+      "url": "http://xhztv.top/xhz"
     },
     {
       "name": "无名单仓",
